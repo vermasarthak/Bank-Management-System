@@ -38,6 +38,6 @@ It enables users to **create accounts, deposit and withdraw money, check balance
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/MagmaXTitan/Bank-Management-System.git
+git clone https://github.com/vermasarthak/Bank-Management-System.git
 cd Bank-Management-System
 # Bank-Management
